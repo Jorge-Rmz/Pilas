@@ -24,7 +24,7 @@
 ![6](https://user-images.githubusercontent.com/71052252/97525476-8399f700-196c-11eb-8481-e2a91085a46f.png)
 
 
-#### Posteriormente obtendremos el elemento que se encuentra en la cima, Con la opción 4. Y el elemto que esta es la cima sera el que se ingreso al ultimo. [548]
+#### Posteriormente obtendremos el elemento que se encuentra en la cima, Con la opción 4. Y el elemento que está es la cima será el que se ingreso al final. [548]
 
 ![7+](https://user-images.githubusercontent.com/71052252/97525841-63b70300-196d-11eb-8817-0bf51cc96dd7.png)
 
