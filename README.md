@@ -22,3 +22,9 @@
 #### Despues elegimos la opción 3.-¿La Pila está Vacía?. Y como la pila tiene 3 elementos nos dira que No esta vacia.
 
 ![6](https://user-images.githubusercontent.com/71052252/97525476-8399f700-196c-11eb-8481-e2a91085a46f.png)
+
+
+#### Posteriormente obtendremos el elemento que se encuentra en la cima, Con la opción 4. Y el elemto que esta es la cima sera el que se ingreso al ultimo. [548]
+
+![7+](https://user-images.githubusercontent.com/71052252/97525841-63b70300-196d-11eb-8817-0bf51cc96dd7.png)
+
