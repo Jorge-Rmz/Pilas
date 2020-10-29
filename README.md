@@ -5,7 +5,7 @@
 
 #### Al momento de ejecutar el programa nos muestra la siguiente ventana. En donde nos da la opción de elegir qué operación queremos realizar.
 
-\t\t![1](https://user-images.githubusercontent.com/71052252/97523934-133da680-1969-11eb-83aa-5b2442b11d2d.png)
+"\t\t\t"![1](https://user-images.githubusercontent.com/71052252/97523934-133da680-1969-11eb-83aa-5b2442b11d2d.png)
 
 
 
