@@ -38,5 +38,14 @@
 ![9](https://user-images.githubusercontent.com/71052252/97530030-d2e52500-1976-11eb-8715-7aae55aa1fa8.png)
 
 
+#### Ahora eliminaremos todo el contenido de la Pila con la opcion 6.- Limpiar toda la pila.
+![10](https://user-images.githubusercontent.com/71052252/97542725-ddaab480-198c-11eb-8fa0-2e0142b8ff86.png)
+![11](https://user-images.githubusercontent.com/71052252/97542728-dedbe180-198c-11eb-8122-753e13db03f2.png)
+
+
+#### Por último, verificaremos que en realidad toda la Pila esta vacía. Con la Opcion 3.-¿la Pila está Vacía? Haremos eso. 
+![12](https://user-images.githubusercontent.com/71052252/97542880-19de1500-198d-11eb-810d-23f8b105c37d.png)
+![13](https://user-images.githubusercontent.com/71052252/97542882-1a76ab80-198d-11eb-913b-2669a5cc274a.png)
+
 
 
