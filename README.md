@@ -19,7 +19,6 @@
 
 ![5](https://user-images.githubusercontent.com/71052252/97525064-9eb83700-196b-11eb-96f4-63177fd949c8.png)
 
-#### 
-Despues elegimos la opción 3.-¿La Pila está Vacía?. Y como la pila tiene 3 elementos nos dira que No esta vacia.
+#### Despues elegimos la opción 3.-¿La Pila está Vacía?. Y como la pila tiene 3 elementos nos dira que No esta vacia.
 
 ![6](https://user-images.githubusercontent.com/71052252/97525476-8399f700-196c-11eb-8481-e2a91085a46f.png)
