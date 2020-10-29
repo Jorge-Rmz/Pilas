@@ -15,7 +15,11 @@
 ![3](https://user-images.githubusercontent.com/71052252/97524619-bd69fe00-196a-11eb-957f-b2fb63698414.png)
 ![4](https://user-images.githubusercontent.com/71052252/97524622-be9b2b00-196a-11eb-98e2-4c0567d28ea2.png)
 
+#### Posteriormente Obtendremos el tamaño de la pila. Y como podemos observar el tamaño sera 3 ya que solo insertamos tres elementos a la Pila.
 
+![5](https://user-images.githubusercontent.com/71052252/97525064-9eb83700-196b-11eb-96f4-63177fd949c8.png)
 
+#### 
+Despues elegimos la opción 3.-¿La Pila está Vacía?. Y como la pila tiene 3 elementos nos dira que No esta vacia.
 
-
+![6](https://user-images.githubusercontent.com/71052252/97525476-8399f700-196c-11eb-8481-e2a91085a46f.png)
