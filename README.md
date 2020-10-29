@@ -28,5 +28,15 @@
 
 ![7+](https://user-images.githubusercontent.com/71052252/97525841-63b70300-196d-11eb-8817-0bf51cc96dd7.png)
 
+#### Después eliminaremos un elemento de la Pila con la opción 2.- Sacar un elemento de la Pila. Y el elemento eliminado es el que se encuentra en la cima.
+
+![8](https://user-images.githubusercontent.com/71052252/97530032-d37dbb80-1976-11eb-8a5a-b01f96461145.png)
+
+
+#### Ahora obtendremos el elemento que se encuentra en la cima. En esta ocación sera el elemento que se ingreso antepenultimamente. 
+
+![9](https://user-images.githubusercontent.com/71052252/97530030-d2e52500-1976-11eb-8715-7aae55aa1fa8.png)
+
+
 
 
